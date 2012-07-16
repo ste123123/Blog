@@ -1,0 +1,14 @@
+Jul 16 11:52:53 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /modulo/azione with parameters array (  'module' => 'modulo',  'action' => 'azione',)
+Jul 16 11:52:54 symfony [info] {sfFrontWebController} Action "modulo/azione" does not exist
+Jul 16 11:52:54 symfony [err] {sfError404Exception} Action "modulo/azione" does not exist.
+Jul 16 11:52:54 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Jul 16 11:52:54 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jul 16 11:52:54 symfony [info] {sfWebDebugLogger} Configuration 88.10 ms (5)
+Jul 16 11:52:54 symfony [info] {sfWebDebugLogger} Factories 80.68 ms (1)
+Jul 16 12:00:50 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /modulo/azione with parameters array (  'module' => 'modulo',  'action' => 'azione',)
+Jul 16 12:00:50 symfony [info] {sfFrontWebController} Action "modulo/azione" does not exist
+Jul 16 12:00:50 symfony [err] {sfError404Exception} Action "modulo/azione" does not exist.
+Jul 16 12:00:50 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Jul 16 12:00:50 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Jul 16 12:00:50 symfony [info] {sfWebDebugLogger} Configuration 6.14 ms (5)
+Jul 16 12:00:50 symfony [info] {sfWebDebugLogger} Factories 60.19 ms (1)
